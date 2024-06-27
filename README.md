@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @lifeisunusefull
+- 👀 I’m interested in girl cuz I am man
+- 🌱 I’m backend developer
+- 💞️ I’m looking to collaborate on Develop discord bot.
+- 📫 How to reach me ... You can't lmao
+- 😄 Pronouns: He/Him/His/Man/Men
+- ⚡ Fun fact: Stop being homophobic and rude to the LGBTQ+ community. You should be thanking them for saving us plenty of room in heaven.
