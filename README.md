@@ -15,7 +15,7 @@
   
 - 💬 Ask me about **JavaScript**  
   
-- 📫 How to reach me **amtixdev@gmail.com**  
+- 📫 How to reach me [https://amtixdevwebsite.pages.dev](https://amtixdevwebsite.pages.dev)
   
 - 📄 Know about my experiences [https://amtixdevwebsite.pages.dev](https://amtixdevwebsite.pages.dev)  
   
