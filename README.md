@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm AmtiXDev</h1>  
-<h3 align="center">They know him as AmtiX, 17 y/o backend developer & translator, A person who loves her "M" so much. @Creative Framework Founder.</h3>  
+<h3 align="center">They know him as AmtiX, 17 y/o backend developer & translator, A person who loves his "M" so much. @Creative Framework Founder.</h3>  
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lifeisunusefull&label=Profile%20views&color=0e75b6&style=flat" alt="lifeisunusefull" /> </p>  
   
